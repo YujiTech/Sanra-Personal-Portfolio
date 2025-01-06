@@ -4,6 +4,4 @@
 
   <a href="https://YujiTech.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
-  ### Demo screecnes
-
-![Portfolio Desktop Demo](./Screenshot (70).png "Desktop Demo")  
+ 
