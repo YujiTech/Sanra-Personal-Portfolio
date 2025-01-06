@@ -6,4 +6,4 @@
 
   ### Demo screecnes
 
-![Grilli Desktop Demo](Screenshot (70).png"Desktop Demo")
+![Portfolio Desktop Demo](./Screenshot (70).png"Desktop Demo")
